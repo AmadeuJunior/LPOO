@@ -1,0 +1,18 @@
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Form1.resources
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.exe
+C:\Users\Bruninho\Documents\My Dropbox\Facul\2012-1\Linguagem de Programação Comercial\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor de Texto.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Form1.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Editor de Texto\Editor de Texto\obj\x86\Debug\GenerateResource.write.1.tlog

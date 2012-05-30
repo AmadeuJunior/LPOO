@@ -1,0 +1,76 @@
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.Properties.Resources.resources
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\TWBalance.exe.config
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\ResGen.write.1.tlog
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\TWBalance.exe
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\TWBalance.pdb
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\Twitterizer2.dll
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\Twitterizer2.pdb
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\Twitterizer2.xml
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.pdb
+D:\Projetos\TWBalance\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.exe
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.pdb
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmAutorizaAPP.resources
+D:\Projetos\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmPrincipal.resources
+F:\TWBalance\TWBalance\TWBalance\bin\Debug\TWBalance.exe.config
+F:\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.exe
+F:\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.pdb
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\TWBalance.exe.config
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.exe
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.pdb
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\TWBalance.exe
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\TWBalance.pdb
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\Twitterizer2.pdb
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\Twitterizer2.xml
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmAutorizaAPP.resources
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmPrincipal.resources
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\TWBalance.Properties.Resources.resources
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lucas\Documents\5 semestre\progarmação comercial 1\TWBalance\TWBalance\TWBalance\obj\x86\Debug\ResGen.write.1.tlog
+F:\TWBalance\TWBalance\bin\Debug\TWBalance.exe.config
+F:\TWBalance\TWBalance\obj\x86\Debug\TWBalance.exe
+F:\TWBalance\TWBalance\obj\x86\Debug\TWBalance.pdb
+F:\TWBalance\TWBalance\bin\Debug\TWBalance.exe
+F:\TWBalance\TWBalance\bin\Debug\TWBalance.pdb
+F:\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.dll
+F:\TWBalance\TWBalance\bin\Debug\Twitterizer2.pdb
+F:\TWBalance\TWBalance\bin\Debug\Twitterizer2.xml
+F:\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.pdb
+F:\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.xml
+F:\TWBalance\TWBalance\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmAutorizaAPP.resources
+F:\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmPrincipal.resources
+F:\TWBalance\TWBalance\obj\x86\Debug\TWBalance.Properties.Resources.resources
+F:\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\TWBalance\TWBalance\obj\x86\Debug\ResGen.read.1.tlog
+F:\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\TWBalance\TWBalance\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\TWBalance.exe.config
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\TWBalance.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\TWBalance.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\TWBalance.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\Twitterizer2.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\Twitterizer2.xml
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmAutorizaAPP.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\TWBalance.frmPrincipal.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\TWBalance.Properties.Resources.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\TWBalance\TWBalance\obj\x86\Debug\TWBalance.pdb
